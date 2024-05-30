@@ -23,4 +23,3 @@ I (Interface Segregation Principle/ Principio de segregación de Interfaces)
 D ( Dependency Inversion Principle / Principio de Inversión de Dependencias )
 	El principio de inversión de Dependencias establece que los módulos de alto nivel no deben depender de módulos de bajo nivel. Ambos niveles deben depende de abstracciones.
 	Además las abstracciones no deben depender de los detalles, si no que los detalles deben depende de las abstracciones.
-![image](https://github.com/JhonRg/SolidPrinciples/assets/7659618/2113d4c1-4b63-4872-a22b-5faeb133403c)
